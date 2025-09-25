@@ -1,0 +1,1 @@
+You can check the 24 solar terms by entering a date in the console (limited to the year 2025).If you enter a date that is not one of the 24 solar terms or an invalid date, it will display "No results found".
